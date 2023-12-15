@@ -1124,6 +1124,7 @@ DEPENDENCIES:
   - Flipper-DoubleConversion (= 3.2.0.1)
   - Flipper-Fmt (= 7.1.7)
   - Flipper-Folly (= 2.6.10)
+  - Flipper-Folly (~> 2.6)
   - Flipper-Glog (= 0.5.0.5)
   - Flipper-PeerTalk (= 0.0.4)
   - FlipperKit (= 0.201.0)
@@ -1367,6 +1368,6 @@ SPEC CHECKSUMS:
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
   Yoga: 44003f970aa541b79dfdd59cf236fda41bd5890f
 
-PODFILE CHECKSUM: c10375f542c1c2be0cf898957fccf8dae40dce16
+PODFILE CHECKSUM: 8f08026057165a3c1a95cffb40c1503b1e9c1ae6
 
 COCOAPODS: 1.14.3
